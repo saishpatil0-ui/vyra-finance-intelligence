@@ -41,7 +41,7 @@ Suggested screenshot files:
 - docs/images/goals.png — savings goals view, if implemented
 After adding a screenshot, display it like this:
 ### Dashboard
-![VYRA dashboard](docs/images/dashboard.png)
+![VYRA — Personal Financial Intelligence Platform](vyra-banner.png.png)
 🧰 Tech Stack
 Frontend
 - React
