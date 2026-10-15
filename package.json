@@ -1,0 +1,13 @@
+{
+  "name": "vyra",
+  "version": "1.0.0",
+  "description": "VYRA \u2014 Personal Finance & Growth Intelligence Platform for Students & Young Professionals",
+  "private": true,
+  "scripts": {
+    "dev:client": "npm --prefix client run dev",
+    "dev:server": "npm --prefix server run dev",
+    "build": "npm --prefix client run build",
+    "lint": "npm --prefix client run lint",
+    "start:server": "npm --prefix server run start"
+  }
+}
